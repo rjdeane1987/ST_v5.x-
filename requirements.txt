@@ -1,0 +1,7 @@
+streamlit
+yfinance
+pandas
+numpy
+hmmlearn.hmm  
+matplotlib.pyplot
+datetime
